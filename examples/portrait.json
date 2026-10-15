@@ -1,0 +1,11 @@
+{
+  "job_id": "demo_20261015_001_portrait",
+  "project": "Demo",
+  "items": [
+    {
+      "id": "shopkeeper_portrait",
+      "prompt": "A friendly fantasy shopkeeper portrait. Hand-painted game art, neutral background, complete head with generous margin. No lettering.",
+      "output_path": "demo-output/shopkeeper.png"
+    }
+  ]
+}
