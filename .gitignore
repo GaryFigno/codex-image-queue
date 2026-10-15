@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
+*.sqlite3*
+.queue/
+.queue-*/
+demo-output/
+dist/
+.DS_Store
+Thumbs.db
