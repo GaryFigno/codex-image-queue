@@ -1,0 +1,4 @@
+interface:
+  display_name: "Codex Image Queue"
+  short_description: "Batch image jobs with shared claims and bounded recovery"
+  default_prompt: "Use $codex-image-queue to prepare a batch of image jobs and process them with Codex built-in image generation."
